@@ -34,13 +34,12 @@ In this repository, we have gathered some of the most promising lung cancer segm
 
 ### *2024*
 - **Segmentation and classification of lungs CT-scan for detecting COVID-19 abnormalities by deep learning technique: U-Net model**  
-  Authors: Amir S. Moosavi and Ali Mahboobi and Farshid Arabzadeh and Nasrin Ramezani and Hossein S. Moosavi and Gholamreza Mehrpoor
+  Authors: Amir S. Moosavi and Ali Mahboobi and Farshid Arabzadeh and Nasrin Ramezani and Hossein S. Moosavi and Gholamreza Mehrpoor         
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/38605799/)
-
-- **Transformer-based semantic segmentation and CNN network for detection of histopathological lung cancer**
-  Authors: Lareib Fatima Talib and Javaria Amin and Muhammad Sharif and Mudassar Raza
+- **Transformer-based semantic segmentation and CNN network for detection of histopathological lung cancer**  
+  Authors: Lareib Fatima Talib and Javaria Amin and Muhammad Sharif and Mudassar Raza    
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809424001642)
-
+  
 
 ### *2023*
 - **Atrous convolution aided integrated framework for lung nodule segmentation and classification**  
