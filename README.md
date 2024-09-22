@@ -450,9 +450,6 @@ In this repository, we have gathered some of the most promising lung cancer segm
 - **Automatic semantic segmentation with DeepLab dilated learning network for change detection in remote sensing images**  
   Authors: Venugopal, N  
   [[Paper]]()
-- **Generative adversarial networks**  
-  Authors: Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua  
-  [[Paper]]()
 - **RDA-UNET-WGAN: an accurate breast ultrasound lesion segmentation using wasserstein generative adversarial networks**  
   Authors: Negi, Anuja and Raj, Alex Noel Joseph and Nersisson, Ruban and Zhuang, Zhemin and Murugappan, M  
   [[Paper]]()
@@ -774,108 +771,76 @@ In this repository, we have gathered some of the most promising lung cancer segm
   [[Paper]]()
 - **Lung CT image segmentation using deep neural networks**  
   Authors: Skourt, Brahim Ait and El Hassani, Abdelhamid and Majda, Aicha  
-  [[Paper]]()
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050918301157)
 - **Encoder-decoder with atrous separable convolution for semantic image segmentation**  
   Authors: Chen, Liang-Chieh and Papandreou, George and Kokkinos, Iasonas and Murphy, Kevin and Yuille, Alan L.  
-  [[Paper]]()
+  [[Paper]](https://arxiv.org/abs/1802.02611)
 - **Added value of computer-aided CT image features for early lung cancer diagnosis with small pulmonary nodules: a matched case-control study**  
   Authors: Huang, Peng and Park, Seyoun and Yan, Rongkai and Lee, Junghoon and Chu, Linda C and Lin, Cheng T and Hussien, Amira and Rathmell, Joshua and Thomas, Brett and Chen, Chen and others  
-  [[Paper]]()
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/28872442/)
 
 ### *2017*
-- **Imagenet classification with deep convolutional neural networks**  
-  Authors: Krizhevsky, Alex and Sutskever, Ilya and Hinton, Geoffrey E  
-  [[Paper]]()
 - **Convolutional auto-encoder for image denoising of ultra-low-dose CT**  
-  Authors: Nishio, Mizuho and Nagashima, Chihiro and Hirabayashi, Saori and Ohnishi, Akinori and Sasaki, Kaori and Sagawa, Tomoyuki and Hamada, Masayuki and Yamashita, Tatsuo  
-  [[Paper]]()
-- **Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs**  
-  Authors: Chen, Liang-Chieh and Papandreou, George and Kokkinos, Iasonas and Murphy, Kevin and Yuille, Alan L  
-  [[Paper]]()
-- **Rethinking atrous convolution for semantic image segmentation**  
-  Authors: Chen, Liang-Chieh and Papandreou, George and Schroff, Florian and Adam, Hartwig  
-  [[Paper]]()
-- **Unpaired image-to-image translation using cycle-consistent adversarial networks**  
-  Authors: Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A  
-  [[Paper]]()
-- **Progressive growing of gans for improved quality, stability, and variation**  
-  Authors: Karras, Tero and Aila, Timo and Laine, Samuli and Lehtinen, Jaakko  
-  [[Paper]]()
-- **Photo-realistic single image super-resolution using a generative adversarial network**  
-  Authors: Ledig, Christian and Theis, Lucas and Husz{\'a  
-  [[Paper]]()
-- **Stackgan: Text to photo-realistic image synthesis with stacked generative adversarial networks**  
-  Authors: Zhang, Han and Xu, Tao and Li, Hongsheng and Zhang, Shaoting and Wang, Xiaogang and Huang, Xiaolei and Metaxas, Dimitris N  
-  [[Paper]]()
-- **Wasserstein generative adversarial networks**  
-  Authors: Arjovsky, Martin and Chintala, Soumith and Bottou, L{\'e  
-  [[Paper]]()
-- **An active contour model based on local fitted images for image segmentation**  
-  Authors: Wang, Lei and Chang, Yan and Wang, Hui and Wu, Zhenzhou and Pu, Jiantao and Yang, Xiaodong  
-  [[Paper]]()
+  Authors: Nishio, Mizuho and Nagashima, Chihiro and Hirabayashi, Saori and Ohnishi, Akinori and Sasaki, Kaori and Sagawa, Tomoyuki and Hamada, Masayuki and Yamashita, Tatsuo
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S2405844016321600)  
 - **Pulmonary parenchyma segmentation in thin CT image sequences with spectral clustering and geodesic active contour model based on similarity**  
   Authors: He, Nana and Zhang, Xiaolong and Zhao, Juanjuan and Zhao, Huilan and Qiang, Yan  
-  [[Paper]]()
+  [[Paper]](https://ui.adsabs.harvard.edu/abs/2017SPIE10420E..2GH/abstract)
 - **Stacom-slawt challenge: left atrial wall segmentation and thickness measurement using region growing and marker-controlled geodesic active contour**  
-  Authors: Jia, Shuman and Cadour, Lo{\"\i  
-  [[Paper]]()
+  Authors: Shuman Jia, Loïc Cadour, Hubert Cochet & Maxime Sermesant 
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-52718-5_23)
 - **Global optimal hybrid geometric active contour for automated lung segmentation on CT images**  
   Authors: Zhang, Weihang and Wang, Xue and Zhang, Pengbo and Chen, Junfeng  
-  [[Paper]]()
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0010482517303256)
 - **Segmentation and classification of lung tumor from 3D CT image using K-means clustering algorithm**  
   Authors: Sarker, Prionjit and Shuvo, Md Maruf Hossain and Hossain, Zakir and Hasan, Sabbir  
-  [[Paper]]()
+  [[Paper]](https://ieeexplore.ieee.org/document/8255451?denied=)
 - **Myocardium segmentation from DE MRI using multicomponent Gaussian mixture model and coupled level set**  
   Authors: Liu, Jie and Zhuang, Xiahai and Wu, Lianming and An, Dongaolei and Xu, Jianrong and Peters, Terry and Gu, Lixu  
-  [[Paper]]()
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/28129147/)
 - **Central focused convolutional neural networks: Developing a data-driven model for lung nodule segmentation**  
   Authors: Wang, Shuo and Zhou, Mu and Liu, Zaiyi and Liu, Zhenyu and Gu, Dongsheng and Zang, Yali and Dong, Di and Gevaert, Olivier and Tian, Jie  
-  [[Paper]]()
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841517301019)
 - **A multi-view deep convolutional neural networks for lung nodule segmentation**  
   Authors: Wang, Shuo and Zhou, Mu and Gevaert, Olivier and Tang, Zhenchao and Dong, Di and Liu, Zhenyu and Jie, Tian  
-  [[Paper]]()
+  [[Paper]](https://ieeexplore.ieee.org/document/8037182)
 - **Lung nodule classification using artificial crawlers, directional texture and support vector machine**  
   Authors: Froz, Bruno Rodrigues and de Carvalho Filho, Antonio Oseas and Silva, Arist{\'o  
-  [[Paper]]()
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417416305796)
 - **Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: the LUNA16 challenge**  
   Authors: Setio, Arnaud Arindra Adiyoso and Traverso, Alberto and De Bel, Thomas and Berens, Moira SN and Van Den Bogaard, Cas and Cerello, Piergiorgio and Chen, Hao and Dou, Qi and Fantacci, Maria Evelina and Geurts, Bram and others  
-  [[Paper]]()
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/28732268/)
 - **Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases**  
   Authors: Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Bagheri, Mohammadhadi and Summers, Ronald M  
-  [[Paper]]()
+  [[Paper]](https://arxiv.org/abs/1705.02315)
 - **A comparison study on the effect of false positive reduction in deep learning based detection for juxtapleural lung nodules: CNN VS DNN**  
   Authors: Tan, Jiaxing and Huo, Yumei and Liang, Zhengrong and Li, Lihong  
-  [[Paper]]()
+  [[Paper]](https://dl.acm.org/doi/10.5555/3108760.3108768)
 - **Accurate lung segmentation via network-wise training of convolutional networks**  
   Authors: Hwang, Sangheum and Park, Sunggyun  
-  [[Paper]]()
+  [[Paper]](https://arxiv.org/abs/1708.00710)
 - **Deep CNN-based method for segmenting lung fields in digital chest radiographs**  
   Authors: Kaur, Simranpreet and Hooda, Rahul and Mittal, Ajay and Sofat, Sanjeev  
-  [[Paper]]()
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-5780-9_17)
 - **Synthesis of positron emission tomography (PET) images via multi-channel generative adversarial networks (GANs)**  
   Authors: Bi, Lei and Kim, Jinman and Kumar, Ashnil and Feng, Dagan and Fulham, Michael  
-  [[Paper]]()
+  [[Paper]](https://arxiv.org/abs/1707.09747)
 - **Deep reinforcement learning for automated radiation adaptation in lung cancer**  
   Authors: Tseng, Huan-Hsin and Luo, Yi and Cui, Sunan and Chien, Jen-Tzung and Ten Haken, Randall K and Naqa, Issam El  
-  [[Paper]]()
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/29034482/)
 - **An assisted diagnosis system for detection of early pulmonary nodule in computed tomography images**  
   Authors: Liu, Ji-kui and Jiang, Hong-yang and Gao, Meng-di and He, Chen-guang and Wang, Yu and Wang, Pu and Ma, He and Li, Ye  
-  [[Paper]]()
+  [[Paper]](https://pubmed.ncbi.nlm.nih.gov/28032305/)
 - **Detection of juxta-pleural lung nodules in computed tomography images**  
-  Authors: Aresta, Guilherme and Cunha, Ant{\'o  
-  [[Paper]]()
+  Authors: Aresta, Guilherme, António Cunha, and Aurélio Campilho
+  [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10134/101343N/Detection-of-juxta-pleural-lung-nodules-in-computed-tomography-images/10.1117/12.2252022.short)
 - **Lung field segmentation in chest radiographs: a historical review, current status, and expectations from deep learning**  
   Authors: Mittal, Ajay and Hooda, Rahul and Sofat, Sanjeev  
-  [[Paper]]()
-- **Fully convolutional networks for semantic segmentation**  
-  Authors: Shelhamer, Evan and Long, Jonathan and Darrell, Trevor  
-  [[Paper]]()
+  [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-ipr.2016.0526)
 - **Tversky loss function for image segmentation using 3D fully convolutional deep networks**  
   Authors: Salehi, Seyed Sadegh Mohseni and Erdogmus, Deniz and Gholipour, Ali  
-  [[Paper]]()
-- **Fully Convolutional Networks for Semantic Segmentation**  
-  Authors: Shelhamer, Evan and Long, Jonathan and Darrell, Trevor  
-  [[Paper]]()
+  [[Paper]](https://arxiv.org/abs/1706.05721)
+
 
 
 
