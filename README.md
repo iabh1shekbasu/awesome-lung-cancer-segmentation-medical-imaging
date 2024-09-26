@@ -33,6 +33,15 @@ In this repository, we have gathered some of the most promising lung cancer segm
 **Let's collaborate and enrich this list together! Reach out to [me](http://iabh1shekbasu.github.io/) or submit a [pull request](https://github.com/iabh1shekbasu/awesome-lung-cancer-segmentation-medical-imaging/pulls). Your contributions are highly appreciated.**
 
 ### *2024*
+- **SAM3D: Segment Anything Model in Volumetric Medical Images**  
+  Authors: Bui, Nhat-Tan and Hoang, Dinh-Hieu and Tran, Minh-Triet and Doretto, Gianfranco and Adjeroh, Donald and Patel, Brijesh and Choudhary, Arabinda and Le, Ngan
+  [[Paper]](https://arxiv.org/abs/2309.03493)
+- **Automatic lung segmentation in chest X-ray images using SAM with prompts from YOLO**  
+  Authors: Khalili, Ebrahim and Priego-Torres, Blanca and Leon-Jimenez, Antonio and Sanchez-Morillo, Daniel
+  [[Paper]](https://www.techrxiv.org/users/749622/articles/720884-automatic-lung-segmentation-in-chest-x-ray-images-using-sam-with-prompts-from-yolo)
+- **Towards Segment Anything Model (SAM) for Medical Image Segmentation: A Survey**  
+  Authors: Zhang, Yichi and Jiao, Rushi  
+  [[Paper]](https://arxiv.org/abs/2305.03678)
 - **Segmentation and classification of lungs CT-scan for detecting COVID-19 abnormalities by deep learning technique: U-Net model**  
   Authors: Amir S. Moosavi and Ali Mahboobi and Farshid Arabzadeh and Nasrin Ramezani and Hossein S. Moosavi and Gholamreza Mehrpoor         
   [[Paper]](https://pubmed.ncbi.nlm.nih.gov/38605799/)
@@ -42,6 +51,9 @@ In this repository, we have gathered some of the most promising lung cancer segm
   
 
 ### *2023*
+- **Segment anything model for medical image analysis: An experimental study**  
+  Authors: Maciej A. Mazurowski and Haoyu Dong and Hanxue Gu and Jichen Yang and Nicholas Konz and Yixin Zhang
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001780)
 - **Atrous convolution aided integrated framework for lung nodule segmentation and classification**  
   Authors: Halder, Amitava and Dey, Debangshu  
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1746809422009818)
