@@ -719,14 +719,14 @@ In this repository, we have gathered some of the most promising lung cancer segm
   Authors: Chung, Heewon and Ko, Hoon and Jeon, Se Jeong and Yoon, Kwon-Ha and Lee, Jinseok  
   [[Paper]]()
 - **A level-set approach to joint image segmentation and registration with application to CT lung imaging**  
-  Authors: Swierczynski, Piotr and Papie{\.z  
-  [[Paper]]()
+  Authors: Swierczynski, P., Papież, B.W., Schnabel, J.A. and Macdonald, C  
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0895611117300526)
 - **A novel bayesian model incorporating deep neural network and statistical shape model for pancreas segmentation**  
   Authors: Ma, Jingting and Lin, Feng and Wesarg, Stefan and Erdt, Marius  
   [[Paper]]()
 - **A hybrid lung segmentation algorithm based on histogram-based fuzzy C-means clustering**  
-  Authors: Do{\u{g  
-  [[Paper]]()
+  Authors: E Doğanay, S Kara, HK Özçelik, and L Kart
+  [[Paper]](https://www.tandfonline.com/doi/abs/10.1080/21681163.2017.1332531)
 - **A fast weak-supervised pulmonary nodule segmentation method based on modified self-adaptive FCM algorithm**  
   Authors: Liu, Hui and Geng, Fenghuan and Guo, Qiang and Zhang, Caiqing and Zhang, Caiming  
   [[Paper]]()
